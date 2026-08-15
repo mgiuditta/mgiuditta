@@ -1,0 +1,1 @@
+[![React Mid-Level Certificate](https://img.shields.io/badge/React_Certified-Mid--Level-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a2824aea-3a86-4c03-9c06-e067e342c34e)
